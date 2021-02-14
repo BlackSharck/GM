@@ -1,0 +1,46 @@
+
+.teste{
+    background-color: royalblue;
+}
+
+.oredenacao{
+    min-width: 100vw;
+}
+.centro{
+    margin: 0 auto;
+    max-width: 1140px;
+}
+.fundo_transp{
+    background-color: rgba(0, 0, 0, 0.671);
+      
+   border-radius: 70px;
+   
+}
+.antiLK{text-decoration-color:none; }
+a:link{
+    text-decoration:none; 
+    color: inherit;
+}
+
+
+footer{
+   
+}
+nav{
+}
+
+.c-carousle{
+    max-width: 1140px;
+    max-height: 700px;
+   
+   margin: 0 auto;
+}
+@media (max-width: 437px) {
+
+    .brand{
+        display: none;
+    }
+    
+}
+
+
